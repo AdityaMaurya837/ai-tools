@@ -12,7 +12,7 @@ Install the required dependencies: npm install
 Start the development server: npm run build
 
 ## Features
-- Integration with React ecosystem
+- Integration mock api
 - Utilizes React Router for seamless navigation
 - Privacy policy and Terms & Conditions document
 - Contact Us Sec
